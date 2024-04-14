@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "python.analysis.ignore": [
+        "starter-kit/templates"
+    ],
+    "dart.analysisExcludedFolders": [
+        "starter-kit/templates"
+    ],
+
+}
